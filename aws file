@@ -1,1 +1,10 @@
+export const handler = async(event) => {
+    // TODO implement
+   const response={
+    "key1": "hello, world!",
+    "key2": "value2",
+    "key3": "value3"
+  }
+    return response;
+};
 
